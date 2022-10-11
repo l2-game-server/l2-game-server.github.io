@@ -18763,5 +18763,10 @@
         "id": "71767",
         "name": "Samurai Black Long Sword",
         "ico": "weapon_dual_sword_i00"
+    },
+    "100400": {
+        "id": "100400",
+        "name": "Dares Coin",
+        "ico": "etc_coins_gold_i00"
     }
 }
