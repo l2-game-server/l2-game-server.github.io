@@ -40079,7 +40079,7 @@
         "name": "Rudolph's Nose",
         "additionalname": "",
         "description": "Rudolph's Nose. 14-day.",
-        "icon": "Accessory_nose_of_rudolph_mask_i00"
+        "icon": "accessory_nose_of_rudolph_mask_i00"
     },
     "14857": {
         "id": "14857",
@@ -52665,7 +52665,7 @@
         "name": "Demon's Circlet <Str+1 Int+1>",
         "additionalname": "",
         "description": "Circlet of Devil. When equipped: STR +1, INT +1. Enables to use Circlet of Devil Skill: Teleport (Cooldown: 2 hours). Occupies 2 Hair Accessory slots. ",
-        "icon": "Accessary_demon_circlet_i00"
+        "icon": "accessary_demon_circlet_i00"
     },
     "49524": {
         "id": "49524",
@@ -52714,7 +52714,7 @@
         "name": "Blue Dynasty Circlet",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. This Blue Dynasty Circlet occupies 2 Hair Accessory slots.",
-        "icon": "Accessary_angel_circlet_i00"
+        "icon": "accessary_angel_circlet_i00"
     },
     "49531": {
         "id": "49531",
@@ -58503,7 +58503,7 @@
         "name": "First Mate Hat",
         "additionalname": "",
         "description": "First Mate Hat. Uses 2 hair accessory slots.  ",
-        "icon": "Accessary_middle_ages_i01"
+        "icon": "accessary_middle_ages_i01"
     },
     "70359": {
         "id": "70359",
@@ -58706,7 +58706,7 @@
         "name": "Demon Circlet",
         "additionalname": "",
         "description": "Hair accessory possessed of dark energy. It uses 2 hair accessory slots.  ",
-        "icon": "Accessary_demon_circlet_i00"
+        "icon": "accessary_demon_circlet_i00"
     },
     "70388": {
         "id": "70388",
@@ -58720,7 +58720,7 @@
         "name": "Black Half Mask",
         "additionalname": "",
         "description": "Black-colored half mask. Uses 1 hair accessory slot.  ",
-        "icon": "Accessary_black_half_mask_i00"
+        "icon": "accessary_black_half_mask_i00"
     },
     "70390": {
         "id": "70390",
@@ -61121,21 +61121,21 @@
         "name": "First Mate Hat <STR+1 INT+1>",
         "additionalname": "",
         "description": "First Mate Hat. STR+1, INT+1. Occupies 2 Hair Accessory slots.",
-        "icon": "Accessary_middle_ages_i01"
+        "icon": "accessary_middle_ages_i01"
     },
     "70733": {
         "id": "70733",
         "name": "First Mate Hat <DEX+1 WIT+1>",
         "additionalname": "",
         "description": "First Mate Hat. DEX+1, WIT+1. Occupies 2 Hair Accessory slots.",
-        "icon": "Accessary_middle_ages_i01"
+        "icon": "accessary_middle_ages_i01"
     },
     "70734": {
         "id": "70734",
         "name": "First Mate Hat <CON+1 MEN+1>",
         "additionalname": "",
         "description": "First Mate Hat. CON+1, MEN+1. Occupies 2 Hair Accessory slots.",
-        "icon": "Accessary_middle_ages_i01"
+        "icon": "accessary_middle_ages_i01"
     },
     "70735": {
         "id": "70735",
@@ -63228,7 +63228,7 @@
         "name": "Rudolph's Nose",
         "additionalname": "",
         "description": "Rudolph's Nose.\\n",
-        "icon": "Accessory_nose_of_rudolph_mask_i00"
+        "icon": "accessory_nose_of_rudolph_mask_i00"
     },
     "71058": {
         "id": "71058",
@@ -74071,21 +74071,21 @@
         "name": "First Mate Hat <STR+1 INT+1>",
         "additionalname": "",
         "description": "First Mate Hat. STR+1, INT+1. Occupies 2 Hair Accessory slots. Cannot be dropped or sold in a store.",
-        "icon": "Accessary_middle_ages_i01"
+        "icon": "accessary_middle_ages_i01"
     },
     "90850": {
         "id": "90850",
         "name": "First Mate Hat <DEX+1 WIT+1>",
         "additionalname": "",
         "description": "First Mate Hat. DEX+1, WIT+1. Occupies 2 Hair Accessory slots. Cannot be dropped or sold in a store.",
-        "icon": "Accessary_middle_ages_i01"
+        "icon": "accessary_middle_ages_i01"
     },
     "90851": {
         "id": "90851",
         "name": "First Mate Hat <CON+1 MEN+1>",
         "additionalname": "",
         "description": "First Mate Hat. CON+1, MEN+1. Occupies 2 Hair Accessory slots. Cannot be dropped or sold in a store.",
-        "icon": "Accessary_middle_ages_i01"
+        "icon": "accessary_middle_ages_i01"
     },
     "90852": {
         "id": "90852",
@@ -74148,7 +74148,7 @@
         "name": "Lucky Hat",
         "additionalname": "30 days",
         "description": "A 30-day item. Leather hat. Allows to use Blessing of Luck skill. Occupies 2 Hair Accessory slots. ",
-        "icon": "Accessary_middle_ages_i00"
+        "icon": "accessary_middle_ages_i00"
     },
     "90861": {
         "id": "90861",
@@ -75065,7 +75065,7 @@
         "name": "Lucky Hat",
         "additionalname": "30 days",
         "description": "A 30-day item. Leather hat. Allows the use of Blessing of Luck and Lucky Fortune skills when equipped. Occupies 2 Hair Accessory slots. ",
-        "icon": "Accessary_middle_ages_i00"
+        "icon": "accessary_middle_ages_i00"
     },
     "90992": {
         "id": "90992",
