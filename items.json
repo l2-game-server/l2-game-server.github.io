@@ -382,7 +382,7 @@
         "name": "Compound Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t61_l_i00"
+        "icon": "armor_t61_ul_i00"
     },
     "61": {
         "id": "61",
@@ -2125,7 +2125,7 @@
         "name": "Full Plate Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t62_l_i00"
+        "icon": "armor_t62_ul_i00"
     },
     "357": {
         "id": "357",
@@ -2174,7 +2174,7 @@
         "name": "Armor of Nightmare",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t80_l_i00"
+        "icon": "armor_t80_ul_i00"
     },
     "376": {
         "id": "376",
@@ -2314,7 +2314,7 @@
         "name": "Salamander Skin Mail",
         "additionalname": "",
         "description": "One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.",
-        "icon": "armor_t45_l_i00"
+        "icon": "armor_t45_ul_i00"
     },
     "397": {
         "id": "397",
@@ -2349,7 +2349,7 @@
         "name": "Drake Leather Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t45_l_i00"
+        "icon": "armor_t45_ul_i00"
     },
     "412": {
         "id": "412",
@@ -2447,7 +2447,7 @@
         "name": "Robe of Magic",
         "additionalname": "",
         "description": "One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.",
-        "icon": "armor_cotton_robe_i01"
+        "icon": "armor_cotton_robe_i02"
     },
     "432": {
         "id": "432",
@@ -2496,7 +2496,7 @@
         "name": "Sage's Rags",
         "additionalname": "",
         "description": "One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.",
-        "icon": "armor_t44_l_i00"
+        "icon": "armor_t44_ul_i00"
     },
     "439": {
         "id": "439",
@@ -2510,7 +2510,7 @@
         "name": "Robe of Seal",
         "additionalname": "",
         "description": "One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.",
-        "icon": "armor_t44_l_i00"
+        "icon": "armor_t44_ul_i00"
     },
     "441": {
         "id": "441",
@@ -12401,21 +12401,21 @@
         "name": "Doom Plate Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t71_l_i00"
+        "icon": "armor_t71_ul_i00"
     },
     "2382": {
         "id": "2382",
         "name": "Tallum Plate Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t77_l_i00"
+        "icon": "armor_t77_ul_i00"
     },
     "2383": {
         "id": "2383",
         "name": "Majestic Plate Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t83_l_i00"
+        "icon": "armor_t83_ul_i00"
     },
     "2384": {
         "id": "2384",
@@ -12464,42 +12464,42 @@
         "name": "Avadon Leather Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t67_l_i00"
+        "icon": "armor_t67_ul_i00"
     },
     "2391": {
         "id": "2391",
         "name": "Blue Wolf Leather Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t69_l_i00"
+        "icon": "armor_t69_ul_i00"
     },
     "2392": {
         "id": "2392",
         "name": "Leather Armor of Doom",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t72_l_i00"
+        "icon": "armor_t72_ul_i00"
     },
     "2393": {
         "id": "2393",
         "name": "Tallum Leather Armor",
         "additionalname": "",
         "description": "Full body armor. ",
-        "icon": "armor_t78_l_i00"
+        "icon": "armor_t78_ul_i00"
     },
     "2394": {
         "id": "2394",
         "name": "Leather Armor of Nightmare",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t81_l_i00"
+        "icon": "armor_t81_ul_i00"
     },
     "2395": {
         "id": "2395",
         "name": "Majestic Leather Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t84_l_i00"
+        "icon": "armor_t84_ul_i00"
     },
     "2396": {
         "id": "2396",
@@ -12576,28 +12576,28 @@
         "name": "Avadon Robe",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t59_l_i00"
+        "icon": "armor_t59_ul_i00"
     },
     "2407": {
         "id": "2407",
         "name": "Dark Crystal Robe",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t76_l_i00"
+        "icon": "armor_t76_ul_i00"
     },
     "2408": {
         "id": "2408",
         "name": "Robe of Nightmare",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t82_l_i00"
+        "icon": "armor_t82_ul_i00"
     },
     "2409": {
         "id": "2409",
         "name": "Majestic Robe",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t85_l_i00"
+        "icon": "armor_t85_ul_i00"
     },
     "2411": {
         "id": "2411",
@@ -13164,777 +13164,777 @@
         "name": "Saber*Saber",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_saber_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2517": {
         "id": "2517",
         "name": "Saber*Bastard Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_bastard_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2518": {
         "id": "2518",
         "name": "Saber*Spinebone Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_spinebone_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2519": {
         "id": "2519",
         "name": "Saber*Artisan's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2520": {
         "id": "2520",
         "name": "Saber*Knight's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2521": {
         "id": "2521",
         "name": "Saber*Crimson Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2522": {
         "id": "2522",
         "name": "Saber*Elven Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2523": {
         "id": "2523",
         "name": "Saber*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2524": {
         "id": "2524",
         "name": "Saber*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2525": {
         "id": "2525",
         "name": "Bastard Sword*Bastard Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_bastard_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2526": {
         "id": "2526",
         "name": "Bastard Sword*Spinebone Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_spinebone_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2527": {
         "id": "2527",
         "name": "Bastard Sword*Artisan's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2528": {
         "id": "2528",
         "name": "Bastard Sword*Knight's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2529": {
         "id": "2529",
         "name": "Bastard Sword*Crimson Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2530": {
         "id": "2530",
         "name": "Bastard Sword*Elven Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2531": {
         "id": "2531",
         "name": "Bastard Sword*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2532": {
         "id": "2532",
         "name": "Bastard Sword*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2533": {
         "id": "2533",
         "name": "Spinebone Sword*Spinebone Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_spinebone_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2534": {
         "id": "2534",
         "name": "Spinebone Sword*Artisan's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2535": {
         "id": "2535",
         "name": "Spinebone Sword*Knight's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2536": {
         "id": "2536",
         "name": "Spinebone Sword*Crimson Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2537": {
         "id": "2537",
         "name": "Spinebone Sword*Elven Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2538": {
         "id": "2538",
         "name": "Spinebone Sword*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2539": {
         "id": "2539",
         "name": "Spinebone Sword*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2540": {
         "id": "2540",
         "name": "Artisan's Sword*Artisan's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2541": {
         "id": "2541",
         "name": "Artisan's Sword*Knight's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2542": {
         "id": "2542",
         "name": "Artisan's Sword*Crimson Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2543": {
         "id": "2543",
         "name": "Artisan's Sword*Elven Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2544": {
         "id": "2544",
         "name": "Artisan's Sword*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2545": {
         "id": "2545",
         "name": "Artisan's Sword*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2546": {
         "id": "2546",
         "name": "Knight's Sword*Knight's Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2547": {
         "id": "2547",
         "name": "Knight's Sword*Crimson Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2548": {
         "id": "2548",
         "name": "Knight's Sword*Elven Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2549": {
         "id": "2549",
         "name": "Knight's Sword*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2550": {
         "id": "2550",
         "name": "Knight's Sword*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2551": {
         "id": "2551",
         "name": "Crimson Sword*Crimson Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2552": {
         "id": "2552",
         "name": "Crimson Sword*Elven Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2553": {
         "id": "2553",
         "name": "Crimson Sword*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2554": {
         "id": "2554",
         "name": "Crimson Sword*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2555": {
         "id": "2555",
         "name": "Elven Sword*Elven Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2556": {
         "id": "2556",
         "name": "Elven Sword*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2557": {
         "id": "2557",
         "name": "Elven Sword*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2558": {
         "id": "2558",
         "name": "Sword of Revolution*Sword of Revolution",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2559": {
         "id": "2559",
         "name": "Sword of Revolution*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2560": {
         "id": "2560",
         "name": "Elven Long Sword*Elven Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2561": {
         "id": "2561",
         "name": "Stormbringer*Stormbringer",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_stormbringer_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2562": {
         "id": "2562",
         "name": "Stormbringer*Shamshir",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_shamshir_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2563": {
         "id": "2563",
         "name": "Stormbringer*Katana",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_katana_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2564": {
         "id": "2564",
         "name": "Stormbringer*Spirit Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_spirits_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2565": {
         "id": "2565",
         "name": "Stormbringer*Raid Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_raid_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2566": {
         "id": "2566",
         "name": "Stormbringer*Caliburs",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_caliburs_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2567": {
         "id": "2567",
         "name": "Stormbringer*Ultimate Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_limit_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2568": {
         "id": "2568",
         "name": "Stormbringer*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2569": {
         "id": "2569",
         "name": "Stormbringer*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2570": {
         "id": "2570",
         "name": "Stormbringer*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2571": {
         "id": "2571",
         "name": "Stormbringer*Samurai Long sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2572": {
         "id": "2572",
         "name": "Shamshir*Shamshir",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_shamshir_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2573": {
         "id": "2573",
         "name": "Shamshir*Katana",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_katana_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2574": {
         "id": "2574",
         "name": "Shamshir*Spirit Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_spirits_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2575": {
         "id": "2575",
         "name": "Shamshir*Raid Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_raid_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2576": {
         "id": "2576",
         "name": "Shamshir*Caliburs",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_caliburs_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2577": {
         "id": "2577",
         "name": "Shamshir*Ultimate Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_limit_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2578": {
         "id": "2578",
         "name": "Shamshir*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2579": {
         "id": "2579",
         "name": "Shamshir*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2580": {
         "id": "2580",
         "name": "Shamshir*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2581": {
         "id": "2581",
         "name": "Shamshir*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2582": {
         "id": "2582",
         "name": "Katana*Katana",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_katana_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2583": {
         "id": "2583",
         "name": "Katana*Spirit Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_spirits_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2584": {
         "id": "2584",
         "name": "Katana*Raid Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_raid_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2585": {
         "id": "2585",
         "name": "Katana*Caliburs",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_caliburs_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2586": {
         "id": "2586",
         "name": "Katana*Ultimate Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_limit_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2587": {
         "id": "2587",
         "name": "Katana*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2588": {
         "id": "2588",
         "name": "Katana*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2589": {
         "id": "2589",
         "name": "Katana*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2590": {
         "id": "2590",
         "name": "Katana*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2591": {
         "id": "2591",
         "name": "Spirit Sword*Spirit Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_spirits_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2592": {
         "id": "2592",
         "name": "Spirit Sword*Raid Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_raid_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2593": {
         "id": "2593",
         "name": "Spirit Sword*Caliburs",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_caliburs_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2594": {
         "id": "2594",
         "name": "Spirit Sword*Ultimate Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_limit_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2595": {
         "id": "2595",
         "name": "Spirit Sword*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2596": {
         "id": "2596",
         "name": "Spirit Sword*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2597": {
         "id": "2597",
         "name": "Spirit Sword*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2598": {
         "id": "2598",
         "name": "Spirit Sword*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2599": {
         "id": "2599",
         "name": "Raid Sword*Raid Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_raid_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2600": {
         "id": "2600",
         "name": "Raid Sword*Caliburs",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_caliburs_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2601": {
         "id": "2601",
         "name": "Raid Sword*Ultimate Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_limit_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2602": {
         "id": "2602",
         "name": "Raid Sword*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2603": {
         "id": "2603",
         "name": "Raid Sword*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2604": {
         "id": "2604",
         "name": "Raid Sword*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2605": {
         "id": "2605",
         "name": "Raid Sword*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2606": {
         "id": "2606",
         "name": "Caliburs*Caliburs",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_caliburs_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2607": {
         "id": "2607",
         "name": "Caliburs*Ultimate Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_limit_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2608": {
         "id": "2608",
         "name": "Caliburs*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2609": {
         "id": "2609",
         "name": "Caliburs*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2610": {
         "id": "2610",
         "name": "Caliburs*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2611": {
         "id": "2611",
         "name": "Caliburs*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2612": {
         "id": "2612",
         "name": "Ultimate Sword*Ultimate Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_limit_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2613": {
         "id": "2613",
         "name": "Ultimate Sword*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2614": {
         "id": "2614",
         "name": "Ultimate Sword*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2615": {
         "id": "2615",
         "name": "Ultimate Sword*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2616": {
         "id": "2616",
         "name": "Ultimate Sword*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2617": {
         "id": "2617",
         "name": "Sword of Delusion*Sword of Delusion",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_delusion_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2618": {
         "id": "2618",
         "name": "Sword of Delusion*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2619": {
         "id": "2619",
         "name": "Sword of Delusion*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2620": {
         "id": "2620",
         "name": "Sword of Delusion*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2621": {
         "id": "2621",
         "name": "Sword of Nightmare*Sword of Nightmare",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_nightmare_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2622": {
         "id": "2622",
         "name": "Sword of Nightmare*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2623": {
         "id": "2623",
         "name": "Sword of Nightmare*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2624": {
         "id": "2624",
         "name": "Tsurugi*Tsurugi",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_tsurugi_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2625": {
         "id": "2625",
         "name": "Tsurugi*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2626": {
         "id": "2626",
         "name": "Samurai Long Sword*Samurai Long Sword",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "2627": {
         "id": "2627",
@@ -30076,7 +30076,7 @@
         "name": "Keshanberk*Keshanberk",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_kshanberk_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "5234": {
         "id": "5234",
@@ -30447,7 +30447,7 @@
         "name": "Sealed Tallum Plate Armor",
         "additionalname": "",
         "description": "Sealed Tallum Plate Armor. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t77_l_i02"
+        "icon": "armor_t77_ul_i02"
     },
     "5294": {
         "id": "5294",
@@ -30489,7 +30489,7 @@
         "name": "Sealed Tallum Leather Armor",
         "additionalname": "",
         "description": "Sealed Tallum Leather Armor. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t78_l_i02"
+        "icon": "armor_t78_ul_i02"
     },
     "5304": {
         "id": "5304",
@@ -30510,14 +30510,14 @@
         "name": "Sealed Dark Crystal Robe",
         "additionalname": "",
         "description": "Sealed Dark Crystal Robe. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t76_l_i02"
+        "icon": "armor_t76_ul_i02"
     },
     "5311": {
         "id": "5311",
         "name": "Sealed Armor of Nightmare",
         "additionalname": "",
         "description": "Sealed Armor of Nightmare. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t80_l_i02"
+        "icon": "armor_t80_ul_i02"
     },
     "5312": {
         "id": "5312",
@@ -30552,7 +30552,7 @@
         "name": "Sealed Majestic Plate Armor",
         "additionalname": "",
         "description": "Sealed Majestic Plate Armor. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t83_l_i02"
+        "icon": "armor_t83_ul_i02"
     },
     "5317": {
         "id": "5317",
@@ -30580,28 +30580,28 @@
         "name": "Sealed Leather Armor of Nightmare",
         "additionalname": "",
         "description": "Sealed Leather Armor of Nightmare. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t81_l_i02"
+        "icon": "armor_t81_ul_i02"
     },
     "5323": {
         "id": "5323",
         "name": "Sealed Majestic Leather Armor",
         "additionalname": "",
         "description": "Sealed Majestic Leather Armor. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t84_l_i02"
+        "icon": "armor_t84_ul_i02"
     },
     "5326": {
         "id": "5326",
         "name": "Sealed Robe of Nightmare",
         "additionalname": "",
         "description": "Sealed Robe of Nightmare. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t82_l_i02"
+        "icon": "armor_t82_ul_i02"
     },
     "5329": {
         "id": "5329",
         "name": "Sealed Majestic Robe",
         "additionalname": "",
         "description": "Sealed Majestic Robe. The seal can be removed by a blacksmith in any village.",
-        "icon": "armor_t85_l_i02"
+        "icon": "armor_t85_ul_i02"
     },
     "5332": {
         "id": "5332",
@@ -32253,14 +32253,14 @@
         "name": "Keshanberk*Damascus",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_damascus_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "5706": {
         "id": "5706",
         "name": "Damascus*Damascus",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_damascus_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "5707": {
         "id": "5707",
@@ -35368,7 +35368,7 @@
         "name": "Draconic Leather Armor",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t89_l_i00"
+        "icon": "armor_t89_ul_i00"
     },
     "6380": {
         "id": "6380",
@@ -35396,7 +35396,7 @@
         "name": "Major Arcana Robe",
         "additionalname": "",
         "description": "Full body armor.",
-        "icon": "armor_t90_l_i00"
+        "icon": "armor_t90_ul_i00"
     },
     "6384": {
         "id": "6384",
@@ -35564,7 +35564,7 @@
         "name": "Formal Wear",
         "additionalname": "",
         "description": "Tuxedo for male characters, and a wedding dress for female characters. Equipping this disables armor. Hair accessories, weapons, and magic armor remain equipped.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "6569": {
         "id": "6569",
@@ -35648,7 +35648,7 @@
         "name": "Tallum Blade*Dark Legion's Edge",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_dark_legions_edge_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "6611": {
         "id": "6611",
@@ -35809,7 +35809,7 @@
         "name": "Sealed Draconic Leather Armor",
         "additionalname": "",
         "description": "Sealed Draconic Leather Armor. Only the blacksmith in each village can remove the seal.",
-        "icon": "armor_t89_l_i02"
+        "icon": "armor_t89_ul_i02"
     },
     "6681": {
         "id": "6681",
@@ -35837,7 +35837,7 @@
         "name": "Sealed Major Arcana Robe",
         "additionalname": "",
         "description": "Sealed Major Arcana Robe. Only the blacksmith in each village can remove the seal.",
-        "icon": "armor_t90_l_i02"
+        "icon": "armor_t90_ul_i02"
     },
     "6685": {
         "id": "6685",
@@ -38252,7 +38252,7 @@
         "name": "Moon Armor",
         "additionalname": "",
         "description": "Full Armor. ",
-        "icon": "armor_t1001_l_i00"
+        "icon": "armor_t1001_ul_i00"
     },
     "7852": {
         "id": "7852",
@@ -38273,7 +38273,7 @@
         "name": "Moon Shell",
         "additionalname": "",
         "description": "Full Armor. ",
-        "icon": "armor_t1002_l_i00"
+        "icon": "armor_t1002_ul_i00"
     },
     "7855": {
         "id": "7855",
@@ -38294,7 +38294,7 @@
         "name": "Moon Cape",
         "additionalname": "",
         "description": "Full Armor.  ",
-        "icon": "armor_t1003_l_i00"
+        "icon": "armor_t1003_ul_i00"
     },
     "7858": {
         "id": "7858",
@@ -39743,7 +39743,7 @@
         "name": "Tallum Blade*Damascus",
         "additionalname": "",
         "description": "When enchanted with a two-handed sword, two-handed blunt, or fist weapon, P. Atk. of a dualsword increases more significantly than that of a normal one-handed sword.",
-        "icon": "weapon_sword_of_damascus_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "9138": {
         "id": "9138",
@@ -40030,7 +40030,7 @@
         "name": "Tallum Blade*Damascus",
         "additionalname": "Not Available",
         "description": "For NPC",
-        "icon": "weapon_sword_of_damascus_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "14339": {
         "id": "14339",
@@ -40079,7 +40079,7 @@
         "name": "Rudolph's Nose",
         "additionalname": "",
         "description": "Rudolph's Nose. 14-day.",
-        "icon": "accessory_nose_of_rudolph_mask_i00"
+        "icon": "Accessory_nose_of_rudolph_mask_i00"
     },
     "14857": {
         "id": "14857",
@@ -40107,7 +40107,7 @@
         "name": "Transparent Dual (NPC)",
         "additionalname": "Not Available",
         "description": "",
-        "icon": "weapon_sword_of_damascus_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "15301": {
         "id": "15301",
@@ -42459,175 +42459,175 @@
         "name": "Saber*Saber",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_saber_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29233": {
         "id": "29233",
         "name": "Saber*Bastard Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_bastard_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29234": {
         "id": "29234",
         "name": "Saber*Spinebone Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_spinebone_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29235": {
         "id": "29235",
         "name": "Saber*Artisan's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29236": {
         "id": "29236",
         "name": "Saber*Knight's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29237": {
         "id": "29237",
         "name": "Saber*Crimson Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29238": {
         "id": "29238",
         "name": "Saber*Elven Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29239": {
         "id": "29239",
         "name": "Bastard Sword*Bastard Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_bastard_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29240": {
         "id": "29240",
         "name": "Bastard Sword*Spinebone Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_spinebone_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29241": {
         "id": "29241",
         "name": "Bastard Sword*Artisan's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29242": {
         "id": "29242",
         "name": "Bastard Sword*Knight's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29243": {
         "id": "29243",
         "name": "Bastard Sword*Crimson Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29244": {
         "id": "29244",
         "name": "Bastard Sword*Elven Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29245": {
         "id": "29245",
         "name": "Spinebone Sword*Spinebone Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_spinebone_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29246": {
         "id": "29246",
         "name": "Spinebone Sword*Artisan's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29247": {
         "id": "29247",
         "name": "Spinebone Sword*Knight's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29248": {
         "id": "29248",
         "name": "Spinebone Sword*Crimson Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29249": {
         "id": "29249",
         "name": "Spinebone Sword*Elven Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29250": {
         "id": "29250",
         "name": "Artisan's Sword*Artisan's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_artisans_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29251": {
         "id": "29251",
         "name": "Artisan's Sword*Knight's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29252": {
         "id": "29252",
         "name": "Artisan's Sword*Crimson Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29253": {
         "id": "29253",
         "name": "Artisan's Sword*Elven Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29254": {
         "id": "29254",
         "name": "Knight's Sword*Knight's Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_knights_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29255": {
         "id": "29255",
         "name": "Knight's Sword*Crimson Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_crimson_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29256": {
         "id": "29256",
         "name": "Knight's Sword*Elven Sword",
         "additionalname": "",
         "description": "",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29257": {
         "id": "29257",
@@ -43481,7 +43481,7 @@
         "name": "Salamander Skin Mail",
         "additionalname": "",
         "description": "One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.",
-        "icon": "armor_t45_l_i00"
+        "icon": "armor_t45_ul_i00"
     },
     "29379": {
         "id": "29379",
@@ -43670,7 +43670,7 @@
         "name": "Sage's Rags",
         "additionalname": "",
         "description": "One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this.",
-        "icon": "armor_t44_l_i00"
+        "icon": "armor_t44_ul_i00"
     },
     "29406": {
         "id": "29406",
@@ -44524,7 +44524,7 @@
         "name": "Saber*Elven Sword",
         "additionalname": "30 days",
         "description": "30-day item. Cannot be exchanged, dropped, or sold. Can be stored in a private warehouse.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29528": {
         "id": "29528",
@@ -44965,14 +44965,14 @@
         "name": "Samurai Black Long Sword",
         "additionalname": "",
         "description": "Cannot be enchanted or endued with special characteristics. Cannot be exchanged, dropped, or sold. Can be stored in a private warehouse.",
-        "icon": "weapon_samurai_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29591": {
         "id": "29591",
         "name": "Black Samurai Long Sword 30-day Pack",
         "additionalname": "",
         "description": "Can be enchanted and can bestow special abilities.",
-        "icon": "weapon_samurai_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29592": {
         "id": "29592",
@@ -45168,14 +45168,14 @@
         "name": "Elven Sword*Elven Long Sword",
         "additionalname": "30-day",
         "description": "30-day weapon. Cannot be exchanged or dropped.",
-        "icon": "weapon_elven_long_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29620": {
         "id": "29620",
         "name": "Saber*Elven Sword",
         "additionalname": "30-day",
         "description": "30-day weapon. Cannot be exchanged or dropped.",
-        "icon": "weapon_elven_sword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "29621": {
         "id": "29621",
@@ -52665,7 +52665,7 @@
         "name": "Demon's Circlet <Str+1 Int+1>",
         "additionalname": "",
         "description": "Circlet of Devil. When equipped: STR +1, INT +1. Enables to use Circlet of Devil Skill: Teleport (Cooldown: 2 hours). Occupies 2 Hair Accessory slots. ",
-        "icon": "accessary_demon_circlet_i00"
+        "icon": "Accessary_demon_circlet_i00"
     },
     "49524": {
         "id": "49524",
@@ -52707,21 +52707,21 @@
         "name": "Blue Dynasty- Heavy Armor",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. A formal Blue Dynasty Heavy Armor. Any class can wear it. For some races and classes, the Blue Dynasty Heavy Armor, Light Armor, and Robe may have the same appearance. Equipping this armor removes the existing armor. Hair accessories, weapon, and magic armor are not removed.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "49530": {
         "id": "49530",
         "name": "Blue Dynasty Circlet",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. This Blue Dynasty Circlet occupies 2 Hair Accessory slots.",
-        "icon": "accessary_angel_circlet_i00"
+        "icon": "Accessary_angel_circlet_i00"
     },
     "49531": {
         "id": "49531",
         "name": "Red Zubei- Heavy Armor",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. A formal Red Zubei Heavy Armor. Any class can wear it. For some races and classes, the Red Zubei Heavy Armor, Light Armor, and Robe may have the same appearance. Equipping this armor removes the existing armor. Hair accessories, weapon, and magic armor are not removed.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "49532": {
         "id": "49532",
@@ -52861,28 +52861,28 @@
         "name": "Blue Dynasty- Light Armor",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. A formal Blue Dynasty Light Armor. Any class can wear it. For some races and classes, the Blue Dynasty Heavy Armor, Light Armor, and Robe may have the same appearance. Equipping this armor removes the existing armor. Hair accessories, weapon, and magic armor are not removed.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "49552": {
         "id": "49552",
         "name": "Blue Dynasty- Robe",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. A formal Blue Dynasty Robe. Any class can wear it. For some races and classes, Blue Dynasty Heavy Armor, Light Armor, and Robe may have the same appearance. Equipping this robe removes the existing armor. Hair accessories, weapon, and magic armor are not removed.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "49553": {
         "id": "49553",
         "name": "Red Zubei- Light Armor",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. A formal Red Zubei Light Armor. Any class can wear it. For some races and classes, Red Zubei Heavy Armor, Light Armor, and Robe may have the same appearance. Equipping this armor removes the existing armor. Hair accessories, weapon, and magic armor are not removed.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "49554": {
         "id": "49554",
         "name": "Red Zubei- Robe",
         "additionalname": "",
         "description": "An item exclusive for the L2 Assist App. A formal Red Zubei Robe. Any class can wear it. For some races and classes, Red Zubei Heavy Armor, Light Armor, and Robe may have the same appearance. Equipping this robe removes the existing armor. Hair accessories, weapon, and magic armor are not removed.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "49555": {
         "id": "49555",
@@ -53008,7 +53008,7 @@
         "name": "Samurai Black Long Sword",
         "additionalname": "30 days",
         "description": "30-day item. Cannot be enchanted or endued with special characteristics. ",
-        "icon": "weapon_samurai_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "49574": {
         "id": "49574",
@@ -53841,7 +53841,7 @@
         "name": "Samurai Black Long Sword",
         "additionalname": "15-day",
         "description": "15-day item. Cannot be enchanted or endued with special characteristics.  ",
-        "icon": "weapon_samurai_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "49693": {
         "id": "49693",
@@ -58503,7 +58503,7 @@
         "name": "First Mate Hat",
         "additionalname": "",
         "description": "First Mate Hat. Uses 2 hair accessory slots.  ",
-        "icon": "accessary_middle_ages_i01"
+        "icon": "Accessary_middle_ages_i01"
     },
     "70359": {
         "id": "70359",
@@ -58706,7 +58706,7 @@
         "name": "Demon Circlet",
         "additionalname": "",
         "description": "Hair accessory possessed of dark energy. It uses 2 hair accessory slots.  ",
-        "icon": "accessary_demon_circlet_i00"
+        "icon": "Accessary_demon_circlet_i00"
     },
     "70388": {
         "id": "70388",
@@ -58720,7 +58720,7 @@
         "name": "Black Half Mask",
         "additionalname": "",
         "description": "Black-colored half mask. Uses 1 hair accessory slot.  ",
-        "icon": "accessary_black_half_mask_i00"
+        "icon": "Accessary_black_half_mask_i00"
     },
     "70390": {
         "id": "70390",
@@ -60092,7 +60092,7 @@
         "name": "Samurai Long Sword*Samurai Long Sword",
         "additionalname": "15-day",
         "description": "As with two-handed swords/blunts and fist weapons, dual swords have a greater increase in P. Atk. when enchanted than one-handed swords.",
-        "icon": "weapon_samurai_old_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "70586": {
         "id": "70586",
@@ -60512,7 +60512,7 @@
         "name": "Hero's Shining Dual Sword",
         "additionalname": "30 days",
         "description": "Atk. Spd. +5%.\\n Duration: 30 days.",
-        "icon": "weapon_stormbringer_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "70646": {
         "id": "70646",
@@ -60554,7 +60554,7 @@
         "name": "Hero's Shining Armor",
         "additionalname": "30 days",
         "description": "Heavy Armor.\\n Duration: 30 days.",
-        "icon": "armor_t62_l_i00"
+        "icon": "armor_t62_ul_i00"
     },
     "70652": {
         "id": "70652",
@@ -60582,7 +60582,7 @@
         "name": "Hero's Shining Leather Armor",
         "additionalname": "30 days",
         "description": "Light Armor.\\n Duration: 30 days.",
-        "icon": "armor_t45_l_i00"
+        "icon": "armor_t45_ul_i00"
     },
     "70656": {
         "id": "70656",
@@ -61121,21 +61121,21 @@
         "name": "First Mate Hat <STR+1 INT+1>",
         "additionalname": "",
         "description": "First Mate Hat. STR+1, INT+1. Occupies 2 Hair Accessory slots.",
-        "icon": "accessary_middle_ages_i01"
+        "icon": "Accessary_middle_ages_i01"
     },
     "70733": {
         "id": "70733",
         "name": "First Mate Hat <DEX+1 WIT+1>",
         "additionalname": "",
         "description": "First Mate Hat. DEX+1, WIT+1. Occupies 2 Hair Accessory slots.",
-        "icon": "accessary_middle_ages_i01"
+        "icon": "Accessary_middle_ages_i01"
     },
     "70734": {
         "id": "70734",
         "name": "First Mate Hat <CON+1 MEN+1>",
         "additionalname": "",
         "description": "First Mate Hat. CON+1, MEN+1. Occupies 2 Hair Accessory slots.",
-        "icon": "accessary_middle_ages_i01"
+        "icon": "Accessary_middle_ages_i01"
     },
     "70735": {
         "id": "70735",
@@ -62318,21 +62318,21 @@
         "name": "Red Zubei - Heavy Armor",
         "additionalname": "Event",
         "description": "Full Heavy Armor of Blue Dynasty It has no restrictions as to class, but for some races and classes heavy, light and magic armor look the same. Previous armor is taken off and becomes unavailable when it's equipped. Headpieces, weapon and magic armor are not removed. ",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "70904": {
         "id": "70904",
         "name": "Red Zubei - Light Armor",
         "additionalname": "Event",
         "description": "Full Light Armor of Blue Dynasty It has no restrictions as to class, but for some races and classes heavy, light and magic armor look the same. Previous armor is taken off and becomes unavailable when it's equipped. Headpieces, weapon and magic armor are not removed. ",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "70905": {
         "id": "70905",
         "name": "Red Zubei - Robe",
         "additionalname": "Event",
         "description": "Full Light Armor of Red Zubei. It has no restrictions as to class, but for some races and classes heavy, light and magic armor look the same. Previous armor is taken off and becomes unavailable when it's equipped. Headpieces, weapon and magic armor are not removed. ",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "70906": {
         "id": "70906",
@@ -63228,7 +63228,7 @@
         "name": "Rudolph's Nose",
         "additionalname": "",
         "description": "Rudolph's Nose.\\n",
-        "icon": "accessory_nose_of_rudolph_mask_i00"
+        "icon": "Accessory_nose_of_rudolph_mask_i00"
     },
     "71058": {
         "id": "71058",
@@ -63515,7 +63515,7 @@
         "name": "Formal Wear",
         "additionalname": "",
         "description": "Tuxedo for male characters, and a wedding dress for female characters. Equipping this disables armor. Hair accessories, weapons, and magic armor remain equipped.",
-        "icon": "armor_t2000_b_i00"
+        "icon": "armor_t2000_ul_i00"
     },
     "71099": {
         "id": "71099",
@@ -68107,7 +68107,7 @@
         "name": "Samurai Black Long Sword",
         "additionalname": "30-day",
         "description": "30-day. Cannot be enchanted or bestow special characteristics. Cannot be exchanged, dropped, or sold in a private store. Can be stored in a private warehouse.",
-        "icon": "weapon_samurai_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "71768": {
         "id": "71768",
@@ -69220,7 +69220,7 @@
         "name": "Savior\u2019s Dual Sword",
         "additionalname": "30 days",
         "description": "A 30-day item.\\n<Soul Crystal Enhancement>\\nAtk. Spd. +5%. ",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "90151": {
         "id": "90151",
@@ -71061,7 +71061,7 @@
         "name": "Hero's Shining Dual Sword",
         "additionalname": "30 days",
         "description": "30-day item. Atk. Spd. +5%.  Enchantment, soul storing and augmenting are impossible.",
-        "icon": "weapon_stormbringer_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "90420": {
         "id": "90420",
@@ -71103,7 +71103,7 @@
         "name": "Hero's Shining Armor",
         "additionalname": "30 days",
         "description": "30-day item. Heavy.  Cannot be enchanted.",
-        "icon": "armor_t62_l_i00"
+        "icon": "armor_t62_ul_i00"
     },
     "90426": {
         "id": "90426",
@@ -71131,7 +71131,7 @@
         "name": "Hero's Shining Rags",
         "additionalname": "30 days",
         "description": "30-day item. Light.  Cannot be enchanted.",
-        "icon": "armor_t45_l_i00"
+        "icon": "armor_t45_ul_i00"
     },
     "90430": {
         "id": "90430",
@@ -74071,21 +74071,21 @@
         "name": "First Mate Hat <STR+1 INT+1>",
         "additionalname": "",
         "description": "First Mate Hat. STR+1, INT+1. Occupies 2 Hair Accessory slots. Cannot be dropped or sold in a store.",
-        "icon": "accessary_middle_ages_i01"
+        "icon": "Accessary_middle_ages_i01"
     },
     "90850": {
         "id": "90850",
         "name": "First Mate Hat <DEX+1 WIT+1>",
         "additionalname": "",
         "description": "First Mate Hat. DEX+1, WIT+1. Occupies 2 Hair Accessory slots. Cannot be dropped or sold in a store.",
-        "icon": "accessary_middle_ages_i01"
+        "icon": "Accessary_middle_ages_i01"
     },
     "90851": {
         "id": "90851",
         "name": "First Mate Hat <CON+1 MEN+1>",
         "additionalname": "",
         "description": "First Mate Hat. CON+1, MEN+1. Occupies 2 Hair Accessory slots. Cannot be dropped or sold in a store.",
-        "icon": "accessary_middle_ages_i01"
+        "icon": "Accessary_middle_ages_i01"
     },
     "90852": {
         "id": "90852",
@@ -74148,7 +74148,7 @@
         "name": "Lucky Hat",
         "additionalname": "30 days",
         "description": "A 30-day item. Leather hat. Allows to use Blessing of Luck skill. Occupies 2 Hair Accessory slots. ",
-        "icon": "accessary_middle_ages_i00"
+        "icon": "Accessary_middle_ages_i00"
     },
     "90861": {
         "id": "90861",
@@ -74197,7 +74197,7 @@
         "name": "Savior\u2019s Dual Sword",
         "additionalname": "120 days",
         "description": "A 120-day item.\\n<Soul Crystal Enhancement>\\nAtk. Spd. +5%. ",
-        "icon": "weapon_sword_of_revolution_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "90868": {
         "id": "90868",
@@ -75065,7 +75065,7 @@
         "name": "Lucky Hat",
         "additionalname": "30 days",
         "description": "A 30-day item. Leather hat. Allows the use of Blessing of Luck and Lucky Fortune skills when equipped. Occupies 2 Hair Accessory slots. ",
-        "icon": "accessary_middle_ages_i00"
+        "icon": "Accessary_middle_ages_i00"
     },
     "90992": {
         "id": "90992",
@@ -76206,7 +76206,7 @@
         "name": "Sibis' Black Samurai Long Sword",
         "additionalname": "",
         "description": "Sibis' Black Samurai Long Sword. Take to Sibis when enhanced with Enchant to receive various Rewards. ",
-        "icon": "weapon_samurai_longsword_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "91155": {
         "id": "91155",
@@ -79020,7 +79020,7 @@
         "name": "Enchanted Warrior's Shiny Dualsword",
         "additionalname": "30-day",
         "description": "A 30-day item. When equipped, Atk. Spd. +5%. Cannot be enchanted or augmented, and has no Soul Crystal option.",
-        "icon": "weapon_stormbringer_i00"
+        "icon": "weapon_dual_sword_i00"
     },
     "91557": {
         "id": "91557",
@@ -79062,7 +79062,7 @@
         "name": "Enchanted Warrior's Shiny Armor",
         "additionalname": "30-day",
         "description": "A 30-day item. For Heavy Armor. Cannot be enchanted.",
-        "icon": "armor_t62_l_i00"
+        "icon": "armor_t62_ul_i00"
     },
     "91563": {
         "id": "91563",
@@ -79090,7 +79090,7 @@
         "name": "Enchanted Warrior's Shiny Coat",
         "additionalname": "30-day",
         "description": "A 30-day item. For Light Armor. Cannot be enchanted.",
-        "icon": "armor_t45_l_i00"
+        "icon": "armor_t45_ul_i00"
     },
     "91567": {
         "id": "91567",
