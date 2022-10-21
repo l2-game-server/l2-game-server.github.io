@@ -80644,7 +80644,7 @@
         "name": "Box with Premium Buff Card",
         "additionalname": "",
         "description": "Double-click to receive Premium Buff Card for 12-hour duration. Cannot be exchanged, dropped, or sold. Can be stored in a private warehouse.",
-        "icon": "NOIMAGE"
+        "icon": "ev_10th_present2"
     },
     "100500": {
         "id": "100500",
