@@ -80622,7 +80622,7 @@
         "id": "100411",
         "name": "Starter Pack",
         "additionalname": "Rogue",
-        "description": "Double-click to get the following: Sword Breaker, Compound Bow, Durable Leather Shirt, Durable Leather Gaiters, Durable Leather Helmet, Bracer, Boots. 1x Necklace of Devotion, 2x Coral Earring, 2x Blue Coral Ring. 6000 Soulshot (No-grade), 3000 Blessed Spiritshot (No-grade), 300 Major Healing Potion, 100 Mana Potion, 50 Greater CP Potion, 25 Blessed Scroll of Escape and 25 Blessed Scroll of Resurrection.",
+        "description": "Double-click to get the following: Sword Breaker, Compound Bow, Durable Leather Shirt, Durable Leather Gaiters, Durable Leather Helmet, Bracer, Boots. 1x Necklace of Devotion, 2x Coral Earring, 2x Blue Coral Ring. 1000 Wooden Arrow, 6000 Soulshot (No-grade), 3000 Blessed Spiritshot (No-grade), 300 Major Healing Potion, 100 Mana Potion, 50 Greater CP Potion, 25 Blessed Scroll of Escape and 25 Blessed Scroll of Resurrection.",
         "icon": "etc_pi_gift_box_i00"
     },
     "100412": {
@@ -80638,6 +80638,13 @@
         "additionalname": "12-hour",
         "description": "12-hour. Provides access to premium buffs: Blessing of Queen, Gift of Queen, Blessing of Seraphim and Gift of Seraphim. Can only be abtained by voting for the server. Cannot be enchanted or bestow special characteristics. Cannot be exchanged, dropped, stored in a private warehouse, or sold in a private store.",
         "icon": "bm_jewel_ticket"
+    },
+    "100421": {
+        "id": "100421",
+        "name": "Box with Premium Buff Card",
+        "additionalname": "",
+        "description": "Double-click to receive Premium Buff Card for 12-hour duration. Cannot be exchanged, dropped, or sold. Can be stored in a private warehouse.",
+        "icon": "NOIMAGE"
     },
     "100500": {
         "id": "100500",
